@@ -83,6 +83,7 @@ notebook_shim==0.2.3
 numexpr==2.8.6
 numpy==1.25.2
 onnxruntime==1.15.1
+openai==0.28.0
 overrides==7.4.0
 packaging==23.1
 pandas==2.1.0
